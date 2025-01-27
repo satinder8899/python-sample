@@ -20,8 +20,8 @@ jobs:
         uses: sonatype/actions/evaluate@v1
         with:
           iq-server-url: https://nexus-iq-nexus-lifecycle.apps.ocp5.azure.dso.digital.mod.uk
-          username: xxxx
-          password: yyyyyy
+          username: yEJlbq4C
+          password: KRIy1OuKrPAH76AoAZFJpmc1xh4HgTuFhybIhAlNJetE
           application-id: github-scan
           scan-targets: requirements.txt
           upload-sarif-file: true
