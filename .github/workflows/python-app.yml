@@ -23,5 +23,5 @@ jobs:
           username: yEJlbq4C
           password: KRIy1OuKrPAH76AoAZFJpmc1xh4HgTuFhybIhAlNJetE
           application-id: lifecycle-app
-          scan-targets: package.json
+          scan-targets: requirements.txt
           upload-sarif-file: true
