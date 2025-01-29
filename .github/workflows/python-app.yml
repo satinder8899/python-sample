@@ -22,6 +22,6 @@ jobs:
           iq-server-url: ${{ secrets.LIFECYCLE_URL }}
           username: ${{ secrets.LIFECYCLE_USERNAME }}
           password: ${{ secrets.LIFECYCLE_PASSWORD }}
-          application-id: github-scan
+          application-id: ss-test
           scan-targets: requirements.txt
           upload-sarif-file: true
